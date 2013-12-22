@@ -1,7 +1,7 @@
 /**
  * Created by MEGNAE on 2013/12/21.
  */
-package kageyama.float.core.signals
+package kageyama.float.signals
 {
     import flash.events.TimerEvent;
     import flash.utils.Dictionary;
